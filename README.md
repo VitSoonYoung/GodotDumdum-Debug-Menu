@@ -1,4 +1,4 @@
-# Godot Debug Menu
+# GodotDumdum's Debug Menu
 
 A collective of useful  functions and debug menu for real-time debugging in Godot 4.
 
