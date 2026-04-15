@@ -1,10 +1,11 @@
 # GodotDumdum's Debug Menu
 
-A collective of useful  functions and debug menu for real-time debugging in Godot 4.
+A collective of useful functions and debug menu for real-time debugging in Godot 4.
 
 ![Debug Menu](readme/Screenshot%202026-04-15%20at%204.46.30%E2%80%AFPM.png)
-![Code Example](readme/Screenshot%202026-04-15%20at%204.44.55%E2%80%AFPM.png)
+![Code Example](<readme/Screenshot 2026-04-15 at 5.01.37 PM.png>)
 ![Console](<readme/Screenshot 2026-04-15 at 5.01.43 PM.png>)
+
 
 ## Features
 
